@@ -3,15 +3,15 @@
 :wave: Here you can find certificates of courses completed, books read, certificates of hackathons and other activities.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanV2&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanV2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRomanVolkov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomanVolkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
    ---
    
 ### 1. :bulb: Hackathons:
    
-   - [Go Algo](https://github.com/RomanV2/Achievements/blob/main/hackathons/Certificate_2023-12-20_06_15_29.651Z.pdf) Role: DA and ML 
-   - [Data Wagon](https://github.com/RomanV2/Achievements/blob/main/hackathons/Certificate_2023-11-20_04_03_28.223Z.pdf) Role: DA and ML 
+   - [Go Algo](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-12-20_06_15_29.651Z.pdf) Role: DA and ML 
+   - [Data Wagon](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-11-20_04_03_28.223Z.pdf) Role: DA and ML 
 
 
 ### 2. :mortar_board:	Courses:
