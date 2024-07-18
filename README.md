@@ -10,8 +10,9 @@
    
 ### 1. :bulb: Hackathons:
    
-   - [Go Algo](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-12-20_06_15_29.651Z.pdf) Role: DA and ML 
-   - [Data Wagon](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-11-20_04_03_28.223Z.pdf) Role: DA and ML 
+   - [Go Algo](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-12-20_06_15_29.651Z.pdf) Role: Backend
+   - [Data Wagon](https://github.com/TheRomanVolkov/Achievements/blob/main/hackathons/Certificate_2023-11-20_04_03_28.223Z.pdf) Role: DA and ML
+   - [LCT 2024](https://github.com/JustRomanVolkov/Achievements/blob/main/hackathons/Certificate_LCT_top10_2024-06-29.pdf) Role: Backend
 
 
 ### 2. :mortar_board:	Courses:
