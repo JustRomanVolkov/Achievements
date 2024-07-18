@@ -3,8 +3,8 @@
 :wave: Here you can find certificates of courses completed, books read, certificates of hackathons and other activities.
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRomanVolkov&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRomanVolkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustRomanVolkov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustRomanVolkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
    ---
    
@@ -21,6 +21,7 @@
   - ["Поколение Python": курс для профессионалов](https://stepik.org/cert/2078161?lang=en)
   - [Введение в базы данных](https://stepik.org/course/125212/)
   - [Аналитик данных](https://karpov.courses/analytics)
+  - [Django Celery Mastery](https://www.udemy.com/course/django-celery-mastery/)
 
 ### 3. :books: Books:
   - A Byte of Python. (Swaroop C.)
